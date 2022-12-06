@@ -1,0 +1,7 @@
+READ ME
+
+	We were assigned a task to make a portfolio website, and make it interactable.
+	It should contain our skills and talents to future employers, to work either part time or full time.
+	We are showcasing our core skills using: flexbox, media queries, and CSS variables.
+
+	This was a good project to attempt, to understand how to build a website and how to design it using CSS.
